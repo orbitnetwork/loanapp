@@ -1,4 +1,4 @@
-CrowdBank
+Orbit Bank
 =========================
 ⚙️ Peer to Peer Loan System implemented on Ethereum Smart Contracts
 
@@ -15,7 +15,7 @@ Solution Abstract
 =====================
 
 Our system leverages digital ownership management and proposes a system of Peer to Peer loan backed by digital Mortgages.
-CrowdBank - built on Ethereum is a web platform that connects lenders to borrowers. A person in need of money can create a loan request setting one of his assets as mortgage. The lenders can see the existing loan requests, verify the mortgage and based on his own risk assessment, propose the amount and a rate of interest. The borrower can choose from among the various proposals received and select a subset of them suiting his needs. On completion of the money requirement, the borrower can chose to repay the loan and clear his mortgage.
+Orbit Bank - built on Ethereum is a web platform that connects lenders to borrowers. A person in need of money can create a loan request setting one of his assets as mortgage. The lenders can see the existing loan requests, verify the mortgage and based on his own risk assessment, propose the amount and a rate of interest. The borrower can choose from among the various proposals received and select a subset of them suiting his needs. On completion of the money requirement, the borrower can chose to repay the loan and clear his mortgage.
 
 Major benefits of using this decentralised system:
 1. No transaction limit.
