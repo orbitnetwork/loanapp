@@ -9,7 +9,7 @@ Problem Statement
 
 In current lending infrastructure, Banks act as intermediate b/w borrowers and lenders. The power to make decision rests with senior management instead of free market appetite. These intermediate parties were needed as open public editable ledgers were inconsistent.
 
-There are several issues associated with centralised systems. Banks generally demand higher safety fraction/mortgage while giving out loans thus giving low growth opportunities to small scale industries, which otherwise could have flourished. Thus, Crowd Bank provides a crowd sourced loan platform where the lender gets to chose the exact amount and the rate at which he wants to lend depending on the purpose/mortgage offered and his own risk assessment. 
+There are several issues associated with centralised systems. Banks generally demand higher safety fraction/mortgage while giving out loans thus giving low growth opportunities to small scale industries, which otherwise could have flourished. Thus, Orbit Bank provides a crowd sourced loan platform where the lender gets to chose the exact amount and the rate at which he wants to lend depending on the purpose/mortgage offered and his own risk assessment. 
 
 Solution Abstract
 =====================
